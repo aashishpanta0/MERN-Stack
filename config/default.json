@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://apanta:apanta@mernproj1.jf2wf.mongodb.net/mernproj1?retryWrites=true&w=majority"
+}
